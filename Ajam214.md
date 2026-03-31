@@ -1,9 +1,9 @@
-🚀 Data Analyst | Business Analyst | SQL | Power BI | Python  
+🚀 Data Analyst | SQL | Power BI | Python | Business Insights  
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">Turning Data into Business Insights through Analytics and Visualization</h3>
+<h3 align="center">Data Analyst with hands-on experience in analytics, dashboards, and business insights</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -13,33 +13,33 @@
 
 ## 💼 Professional Summary  
 
-- 📊 Data Analyst with **1 year of experience** in SQL, Python, Power BI, and Excel  
-- 🔍 Experienced in **data analysis, dashboard development, and business reporting**  
-- ⚙️ Skilled in **ETL processes, data cleaning, and exploratory data analysis (EDA)**  
-- 📈 Delivered insights that improved reporting efficiency and supported decision-making  
-- 🤖 Working knowledge of **Machine Learning and predictive analytics using Python**  
+- 📊 Data Analyst with **1 year of experience** working on real-world datasets  
+- 🔍 Skilled in **SQL, Power BI, Excel, and Python for data analysis and reporting**  
+- ⚙️ Hands-on experience in **ETL pipelines, data cleaning, and dashboard development**  
+- 📈 Built dashboards and reports to track KPIs and support business decisions  
+- 🤖 Experience working with **machine learning models for predictive analysis**  
 
 ---
 
 ## 🔨 Experience  
 
-### 🏢 Data Analyst  
-- Built and maintained ETL pipelines using **SQL and Python**  
-- Developed **Power BI dashboards** to track KPIs and business performance  
-- Performed **data cleaning and transformation** for accurate reporting  
-- Generated insights to support **business and product decisions**  
+### 🏢 Data Analyst — Remote  
+- Built ETL pipelines using **SQL and Python** on large datasets  
+- Developed **Power BI dashboards (KPIs, DAX, Power Query)**  
+- Improved reporting efficiency through **automation and data transformation**  
+- Generated insights for **business and product decision-making**  
 
 ### 🏢 Data Analyst Intern — Deloitte  
-- Processed and analyzed datasets using **SQL and Excel**  
-- Created dashboards to improve **reporting efficiency**  
-- Assisted in **data modeling and analysis for business use cases**  
+- Performed data analysis using **SQL and Excel**  
+- Built dashboards for **performance tracking and reporting**  
+- Assisted in **data modeling and business analytics tasks**  
 
 ---
 
 ## 🚀 What I’m Currently Doing  
-- 📊 Improving skills in **advanced analytics and dashboarding**  
-- 🤖 Learning **Machine Learning and time-series forecasting**  
-- 🌍 Exploring **remote and international data analyst opportunities**  
+- 📊 Strengthening **Data Analytics & Dashboarding skills**  
+- 🤖 Learning **Machine Learning & Time-Series Forecasting**  
+- 🌍 Exploring **Remote Data Analyst opportunities (Global)**  
 
 ---
 
@@ -49,54 +49,36 @@
 
 ---
 
-## 📊 Ask Me About  
-`SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding` • `Data Cleaning`
+## 📊 Skills  
 
----
-
-## 🛠️ Skills  
-
-### 📌 Core  
+### 📌 Core Analytics  
 `SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding`  
 
 ### 💻 Programming  
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`  
 
-### 📈 Analytics  
+### 📈 Analytics & ML  
 `Regression` • `Classification` • `Predictive Modeling`  
 
-### 🧠 Domain  
+### 🧠 Domains  
 `Finance` • `Healthcare` • `EV Market`  
 
-### 🤝 Soft Skills  
-`Problem Solving` • `Communication` • `Teamwork`  
-
 ---
 
-## 📌 Featured Projects  
+## 📌 Projects  
 
 ### 🔹 Loan Eligibility System  
-✅ ML model for loan prediction  
-✅ Tech: Python, Scikit-learn  
-✅ Business Impact: Risk assessment automation  
-
----
+- ML model for loan prediction  
+- Improved decision-making for credit risk  
 
 ### 🔹 Lung Cancer Prediction  
-✅ ML-based healthcare prediction model  
-✅ Focus: Early detection insights  
-
----
+- ML-based prediction system for healthcare insights  
 
 ### 🔹 EV Market Analysis  
-✅ Power BI dashboard + EDA  
-✅ Insights on EV adoption trends  
-
----
+- Power BI dashboard with trend insights  
 
 ### 🔹 forecasterX  
-✅ Time-series forecasting project  
-✅ Business demand prediction  
+- Time-series forecasting for business demand  
 
 ---
 
@@ -110,4 +92,4 @@
 
 ---
 
-⭐️ From Md Ajam — Data to Decisions 🚀
+⭐️ From Md Ajam — Turning Data into Decisions 🚀
