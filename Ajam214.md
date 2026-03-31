@@ -1,9 +1,9 @@
-🚀 Data Analyst (1+ Year Experience) | Business Analyst | Python | Power BI | SQL  
+🚀 Data Analyst | Business Analyst | SQL | Power BI | Python  
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">Turning Data into Business Decisions | 1+ Year Experience in Data Analytics</h3>
+<h3 align="center">Turning Data into Business Insights through Analytics and Visualization</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -13,95 +13,90 @@
 
 ## 💼 Professional Summary  
 
-- 📊 **1+ Year Experience as a Data Analyst & Business Analyst Intern (Deloitte + Tata Group)**  
-- 🔍 Specialized in **data analysis, reporting, dashboarding, and business insights**  
-- ⚙️ Strong hands-on experience with **SQL, Power BI, Excel, and Python for analytics**  
-- 📈 Delivered **actionable insights** to improve decision-making and business performance  
-- 🤖 Additional expertise in **Machine Learning & Predictive Analytics (Python-based)**  
+- 📊 Data Analyst with **1 year of experience** in SQL, Python, Power BI, and Excel  
+- 🔍 Experienced in **data analysis, dashboard development, and business reporting**  
+- ⚙️ Skilled in **ETL processes, data cleaning, and exploratory data analysis (EDA)**  
+- 📈 Delivered insights that improved reporting efficiency and supported decision-making  
+- 🤖 Working knowledge of **Machine Learning and predictive analytics using Python**  
 
 ---
 
 ## 🔨 Experience  
 
-### 🏢 Data Analyst Intern — Deloitte  
-- Performed **ETL operations** using SQL, Python, and Excel to process large datasets  
-- Built **interactive Power BI dashboards** for tracking KPIs and business performance  
-- Conducted **data cleaning, transformation, and validation** to improve data accuracy  
-- Delivered **insight-driven reports** to support business decisions  
+### 🏢 Data Analyst  
+- Built and maintained ETL pipelines using **SQL and Python**  
+- Developed **Power BI dashboards** to track KPIs and business performance  
+- Performed **data cleaning and transformation** for accurate reporting  
+- Generated insights to support **business and product decisions**  
 
-### 🏢 Business Analyst Intern — Tata Group  
-- Analyzed business data to identify **trends, patterns, and opportunities**  
-- Created dashboards and reports to support **strategic decision-making**  
-- Collaborated with cross-functional teams to ensure **data-driven outcomes**  
-- Improved reporting efficiency through **process optimization**  
+### 🏢 Data Analyst Intern — Deloitte  
+- Processed and analyzed datasets using **SQL and Excel**  
+- Created dashboards to improve **reporting efficiency**  
+- Assisted in **data modeling and analysis for business use cases**  
 
 ---
 
 ## 🚀 What I’m Currently Doing  
-- 📊 Advancing in **Data Analytics & Dashboarding (Power BI + SQL)**  
-- 🤖 Learning **Advanced Machine Learning & Time-Series Forecasting**  
-- 🌍 Targeting **Remote & International Data Analyst Roles (Dubai / Saudi / Global)**  
+- 📊 Improving skills in **advanced analytics and dashboarding**  
+- 🤖 Learning **Machine Learning and time-series forecasting**  
+- 🌍 Exploring **remote and international data analyst opportunities**  
 
 ---
 
 ## 🤝 Open To  
-- Data Analyst Roles (Entry-Level / Junior / Remote)  
-- Business Intelligence & Reporting Roles  
-- Data-Driven Product / Business Projects  
+- Data Analyst (Entry-Level / Junior / Remote)  
+- Business Analyst / Reporting Analyst roles  
 
 ---
 
 ## 📊 Ask Me About  
-`SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding` • `Data Cleaning` • `Business Insights`
+`SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding` • `Data Cleaning`
 
 ---
 
 ## 🛠️ Skills  
 
-### 📌 Core Data Analyst Stack  
-`SQL` • `Power BI` • `Excel` • `Data Cleaning` • `EDA` • `Dashboarding`  
+### 📌 Core  
+`SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding`  
 
-### 💻 Programming & Tools  
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Git`  
+### 💻 Programming  
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`  
 
-### 📈 Analytics & Machine Learning  
+### 📈 Analytics  
 `Regression` • `Classification` • `Predictive Modeling`  
 
-### 🧠 Business Understanding  
-`Finance` • `Healthcare` • `EV Market` • `Business Strategy`  
+### 🧠 Domain  
+`Finance` • `Healthcare` • `EV Market`  
 
 ### 🤝 Soft Skills  
-`Problem Solving` • `Communication` • `Stakeholder Management` • `Teamwork`  
+`Problem Solving` • `Communication` • `Teamwork`  
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🔹 Automated Loan Eligibility System  
-✅ Built ML model for loan approval prediction  
+### 🔹 Loan Eligibility System  
+✅ ML model for loan prediction  
 ✅ Tech: Python, Scikit-learn  
-✅ Impact: Automated **risk assessment for financial decisions**  
+✅ Business Impact: Risk assessment automation  
 
 ---
 
 ### 🔹 Lung Cancer Prediction  
-✅ Developed ML model for early-stage detection  
-✅ Domain: Healthcare Analytics  
-✅ Impact: Supports **early diagnosis insights**  
+✅ ML-based healthcare prediction model  
+✅ Focus: Early detection insights  
 
 ---
 
-### 🔹 Indian EV Market Analysis  
-✅ Performed EDA and built **Power BI dashboard**  
-✅ Identified trends in EV adoption  
-✅ Domain: Clean Tech & Market Analysis  
+### 🔹 EV Market Analysis  
+✅ Power BI dashboard + EDA  
+✅ Insights on EV adoption trends  
 
 ---
 
 ### 🔹 forecasterX  
-✅ Time-series forecasting engine  
-✅ Tech: Python, Statsmodels  
-✅ Use Case: **Business demand & sales forecasting**  
+✅ Time-series forecasting project  
+✅ Business demand prediction  
 
 ---
 
@@ -115,12 +110,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAjams&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjams&layout=compact&theme=radical" alt="top langs" />
-</p>
-
----
-
-⭐️ From Md Ajam — Turning Data into Insights 🚀
+⭐️ From Md Ajam — Data to Decisions 🚀
