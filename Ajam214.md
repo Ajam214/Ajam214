@@ -1,9 +1,9 @@
-🚀 Data Analyst | SQL | Power BI | Python | Business Insights  
+🚀 Data Analyst | SQL | Power BI | Python | Machine Learning | Advanced Analytics  
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">Data Analyst with hands-on experience in analytics, dashboards, and business insights</h3>
+<h3 align="center">Data Analyst with strong expertise in analytics, machine learning, and data-driven decision-making</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -13,72 +13,81 @@
 
 ## 💼 Professional Summary  
 
-- 📊 Data Analyst with **1 year of experience** working on real-world datasets  
-- 🔍 Skilled in **SQL, Power BI, Excel, and Python for data analysis and reporting**  
-- ⚙️ Hands-on experience in **ETL pipelines, data cleaning, and dashboard development**  
-- 📈 Built dashboards and reports to track KPIs and support business decisions  
-- 🤖 Experience working with **machine learning models for predictive analysis**  
+- 📊 Data Analyst with **1 year of experience** working on real-world datasets and business problems  
+- ⚙️ Strong expertise in **SQL, Power BI, Excel, and Python for analytics and reporting**  
+- 🔍 Hands-on experience in **ETL pipelines, data modeling, and dashboard development**  
+- 🤖 Advanced exposure to **Machine Learning, predictive analytics, and time-series forecasting**  
+- 📈 Built end-to-end solutions from **data extraction → analysis → modeling → visualization → insights**  
 
 ---
 
 ## 🔨 Experience  
 
 ### 🏢 Data Analyst — Remote  
-- Built ETL pipelines using **SQL and Python** on large datasets  
-- Developed **Power BI dashboards (KPIs, DAX, Power Query)**  
-- Improved reporting efficiency through **automation and data transformation**  
-- Generated insights for **business and product decision-making**  
+- Designed **end-to-end ETL pipelines** using SQL and Python on large datasets  
+- Built **Power BI dashboards (DAX, Power Query)** with KPI tracking and automated reporting  
+- Applied **machine learning models (regression, classification)** for predictive insights  
+- Performed **EDA, feature engineering, and data validation** for high-quality analysis  
+- Delivered insights for **business optimization and decision-making**  
 
 ### 🏢 Data Analyst Intern — Deloitte  
-- Performed data analysis using **SQL and Excel**  
-- Built dashboards for **performance tracking and reporting**  
-- Assisted in **data modeling and business analytics tasks**  
+- Performed **forensic data analysis** using SQL and Excel on structured datasets  
+- Built dashboards to monitor **business performance and risk metrics**  
+- Applied **statistical analysis and hypothesis testing** for decision support  
+- Worked on **data modeling (star schema) for scalable analytics**  
 
 ---
 
 ## 🚀 What I’m Currently Doing  
-- 📊 Strengthening **Data Analytics & Dashboarding skills**  
-- 🤖 Learning **Machine Learning & Time-Series Forecasting**  
-- 🌍 Exploring **Remote Data Analyst opportunities (Global)**  
+- 🤖 Deepening expertise in **Machine Learning & Time-Series Forecasting (ARIMA, Prophet)**  
+- 📊 Building advanced **Power BI dashboards & analytics workflows**  
+- ⚡ Exploring **AI-assisted analytics and automation in data workflows**  
 
 ---
 
 ## 🤝 Open To  
 - Data Analyst (Entry-Level / Junior / Remote)  
-- Business Analyst / Reporting Analyst roles  
+- Data Analyst roles with **ML/Advanced Analytics exposure**  
 
 ---
 
 ## 📊 Skills  
 
 ### 📌 Core Analytics  
-`SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding`  
+`SQL` • `Power BI` • `Excel` • `EDA` • `Dashboarding` • `Data Modeling`  
 
-### 💻 Programming  
+### 💻 Programming & Data Stack  
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`  
 
-### 📈 Analytics & ML  
-`Regression` • `Classification` • `Predictive Modeling`  
+### 🤖 Machine Learning & Advanced Analytics  
+`Regression` • `Classification` • `Clustering`  
+`Feature Engineering` • `Model Evaluation`  
+`Time Series Forecasting (ARIMA, Prophet)`  
+`Predictive Modeling` • `Statistical Analysis` • `A/B Testing`  
 
-### 🧠 Domains  
-`Finance` • `Healthcare` • `EV Market`  
+### 🧠 Business & Domain  
+`Finance` • `Healthcare` • `EV Market` • `Business Intelligence`  
 
 ---
 
 ## 📌 Projects  
 
-### 🔹 Loan Eligibility System  
-- ML model for loan prediction  
-- Improved decision-making for credit risk  
+### 🔹 Loan Eligibility & Risk Model  
+- Built ML classification model using **Scikit-learn**  
+- Applied feature engineering and model evaluation  
+- Improved decision-making in credit risk  
 
 ### 🔹 Lung Cancer Prediction  
-- ML-based prediction system for healthcare insights  
+- Developed ML model with high prediction accuracy  
+- Applied classification techniques on healthcare data  
 
 ### 🔹 EV Market Analysis  
-- Power BI dashboard with trend insights  
+- Performed EDA and built **interactive Power BI dashboards**  
+- Extracted trends and insights for business understanding  
 
 ### 🔹 forecasterX  
-- Time-series forecasting for business demand  
+- Built time-series forecasting models (**ARIMA, Prophet**)  
+- Used for demand and sales prediction  
 
 ---
 
@@ -92,4 +101,4 @@
 
 ---
 
-⭐️ From Md Ajam — Turning Data into Decisions 🚀
+⭐️ From Md Ajam — Data • Analytics • Machine Learning 🚀
